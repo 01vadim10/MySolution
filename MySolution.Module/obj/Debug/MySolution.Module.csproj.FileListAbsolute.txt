@@ -1,0 +1,14 @@
+D:\Projects\MySolution\MySolution.Module\bin\Debug\MySolution.Module.dll
+D:\Projects\MySolution\MySolution.Module\bin\Debug\MySolution.Module.pdb
+D:\Projects\MySolution\MySolution.Module\bin\Debug\EntityFramework.dll
+D:\Projects\MySolution\MySolution.Module\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\MySolution\MySolution.Module\bin\Debug\EntityFramework.xml
+D:\Projects\MySolution\MySolution.Module\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.MySolutionModule.resources
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.csproj.GenerateResource.Cache
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.dll
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.pdb
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.dll.licenses
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.csprojResolveAssemblyReference.cache
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.Controllers.ClearContactTasksController.resources
+D:\Projects\MySolution\MySolution.Module\obj\Debug\MySolution.Module.Controllers.FindBySubjectController.resources

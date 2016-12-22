@@ -1,0 +1,13 @@
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\MySolution.Module.Web.dll
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\MySolution.Module.Web.pdb
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\EntityFramework.dll
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\MySolution.Module.dll
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\MySolution.Module.pdb
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\EntityFramework.xml
+D:\Projects\MySolution\MySolution.Module.Web\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\MySolution\MySolution.Module.Web\obj\Debug\MySolution.Module.Web.csprojResolveAssemblyReference.cache
+D:\Projects\MySolution\MySolution.Module.Web\obj\Debug\MySolution.Module.Web.MySolutionAspNetModule.resources
+D:\Projects\MySolution\MySolution.Module.Web\obj\Debug\MySolution.Module.Web.csproj.GenerateResource.Cache
+D:\Projects\MySolution\MySolution.Module.Web\obj\Debug\MySolution.Module.Web.dll
+D:\Projects\MySolution\MySolution.Module.Web\obj\Debug\MySolution.Module.Web.pdb

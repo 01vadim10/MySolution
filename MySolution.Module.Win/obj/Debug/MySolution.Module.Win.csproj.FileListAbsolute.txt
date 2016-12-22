@@ -1,0 +1,13 @@
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\MySolution.Module.Win.dll
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\MySolution.Module.Win.pdb
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\EntityFramework.dll
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\MySolution.Module.dll
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\MySolution.Module.pdb
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\EntityFramework.xml
+D:\Projects\MySolution\MySolution.Module.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\MySolution\MySolution.Module.Win\obj\Debug\MySolution.Module.Win.csprojResolveAssemblyReference.cache
+D:\Projects\MySolution\MySolution.Module.Win\obj\Debug\MySolution.Module.Win.MySolutionWindowsFormsModule.resources
+D:\Projects\MySolution\MySolution.Module.Win\obj\Debug\MySolution.Module.Win.csproj.GenerateResource.Cache
+D:\Projects\MySolution\MySolution.Module.Win\obj\Debug\MySolution.Module.Win.dll
+D:\Projects\MySolution\MySolution.Module.Win\obj\Debug\MySolution.Module.Win.pdb
